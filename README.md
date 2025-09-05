@@ -1,5 +1,7 @@
 # 🛒 Amazon Reviews Big Data Analysis (PySpark)
 
+**DRIVE LINK FOR REVIEW DATA AND Parquet FILES** =https://drive.google.com/drive/folders/1mVaaH2oO4YgT8egqDAegcInlebd7BT6i?usp=sharing
+
 ## 📌 Overview
 This project analyzes the **Amazon Fine Food Reviews dataset** using **Apache Spark (PySpark)**.  
 It demonstrates how to handle **large datasets** efficiently.
